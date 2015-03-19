@@ -1,6 +1,6 @@
 # Strikingly-Interview
 
-This is my solution to the Hangman challenge from [Strikingly](http://en.wikipedia.org/wiki/Hangman_(game)). So far, my best score with this algorithm is 1414 (80/80 words found with 186 errors).
+This is my solution to the Hangman challenge from [Strikingly](https://github.com/joycehan/strikingly-interview-test-instructions). So far, my best score with this algorithm is 1414 (80/80 words found with 186 errors).
 
 ## Usage
 
